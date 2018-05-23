@@ -1,6 +1,8 @@
 .column{
   width: 300px;
   float: left;
+  background-color: red;
+
 
 }
 img{
@@ -9,4 +11,20 @@ img{
 }
 div{
   margin: 10px;
+}
+.one{
+  background-color: yellow;
+}
+.columntwo{
+  width: 300px;
+  float: left;
+  background-color: blue;
+}
+
+.column1{
+  width: 300px;
+  float: left;
+  background-color: yellow;
+
+
 }
